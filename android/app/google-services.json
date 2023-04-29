@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317244451592",
+    "project_id": "corsit-def81",
+    "storage_bucket": "corsit-def81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317244451592:android:c0d7dc7dcc0d2c97241abd",
+        "android_client_info": {
+          "package_name": "com.example.corsit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317244451592-gq5acv9gd7gl1ej5huu99jh62strs579.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKpxHV65QNG1cB7FHRvDrlXXH8Odix1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317244451592-gq5acv9gd7gl1ej5huu99jh62strs579.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
