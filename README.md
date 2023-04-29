@@ -1,5 +1,5 @@
 # corsit
-Events app
+A Flutter Application.
 ![Screenshot_2022-07-03-18-18-08-066_com example robocor](https://user-images.githubusercontent.com/91750359/235294789-bb5300b4-872b-48a6-a2c9-9d71ceae8323.jpg)
 ![Screenshot_2022-07-03-18-18-19-854_com example robocor](https://user-images.githubusercontent.com/91750359/235294878-03e1238f-c471-4aa6-b184-1f121962adcf.jpg)
 ![Screenshot_2022-07-03-18-18-53-390_com example robocor](https://user-images.githubusercontent.com/91750359/235294915-704afab3-2cfb-415e-80ef-05e65d300625.jpg)
